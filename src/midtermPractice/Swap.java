@@ -1,6 +1,6 @@
-package swapPack;
+package midtermPractice;
 
-public class Swap2 {
+public class Swap {
     public static void main(String[] args) {
         int value1 = 10;
         int value2 = 20;
